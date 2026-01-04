@@ -12,7 +12,7 @@ person_info = {
     'firstname':'Nagraj',
     'lastname':'Naik',
     'country':'India',
-    'city':'Karwar'
+    'city':'Gotham'
     }
 
 # Printing the values stored in the variables
@@ -30,7 +30,7 @@ print('Person information: ', person_info)
 
 # Declaring multiple variables in one line
 
-first_name, last_name, country, age, is_married = 'Nagraj', 'Naik', 'India', 250, True
+first_name, last_name, country, age, is_married = 'Nagraj', 'Naik', 'India', 69, True
 
 print(first_name, last_name, country, age, is_married)
 print('First name:', first_name)
